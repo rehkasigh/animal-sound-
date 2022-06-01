@@ -1,0 +1,37 @@
+body {
+    background:peachpuff;
+    font-family: cursive;
+}
+.header_div {
+    background:grey;
+    color: white;
+}
+.header_div p{
+    font-family: fantasy;
+    color: aqua;
+    letter-spacing: 2px;
+    font-weight: bold;
+    font-size: 12px;
+  
+  }
+  .main_div button{
+  font-family: fantasy;
+  width: 130px;
+  font-weight: bolder;
+  letter-spacing: 3px;
+  margin-top:30px;
+  }
+  .copy_right_footer {
+      color:blue;
+      bottom: 0;
+      position: fixed;
+      line-height:3 ;
+      text-align: center;
+      text-shadow:5px 5px 5px black ;
+      width: 100%;
+      font-size: 18px;
+      background-color: skyblue;
+  
+  
+  }
+  
